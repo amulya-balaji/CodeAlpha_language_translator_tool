@@ -90,3 +90,7 @@ Domain: Artificial Intelligence
 ```
 Special thanks to CodeAlpha for providing this internship opportunity and learning experience.
 ```
+## 🌐 Live Demo
+
+🔗 **Click here to view the live app:**  
+[👉 Open App](https://codealphalanguagetranslatortool-3jswg4nado75mhump7n2g6.streamlit.app/)
